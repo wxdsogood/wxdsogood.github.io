@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-11-17T10:27:45.097Z</updated>
+  <updated>2017-11-11T07:35:11.803Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,27 +15,6 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>gch</title>
-    <link href="http://yoursite.com/2017/11/17/ibgi/"/>
-    <id>http://yoursite.com/2017/11/17/ibgi/</id>
-    <published>2017-11-17T10:26:56.395Z</published>
-    <updated>2017-11-17T10:27:45.097Z</updated>
-    
-    <content type="html"><![CDATA[<p>本站是一个纯个人博客，发布常用资源、素材、教程、经验、代码等。<br>也希望通过博客结识更多的朋友，一起交流、探讨。所以，如果觉得本站不错，愿意交换友情链接，那么请务必符合以下要求：<br>（1）贵站类型必须是博客类、文章类，两者中的一个，本站绝不与导购类、博彩类、影视类、小说类等娱乐、擦边类型网站交换友情。<br>（2）贵站提供的内容要正常，如果含有色情、暴力等违法内容，一律谢绝交换。<br>（3）符合以上两点要求者，不论贵站权重如何，建站时间长短如何，只要认真建站，均可交换。<br>（4）申请友链的方式，可以在本站任何页面留言。</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;本站是一个纯个人博客，发布常用资源、素材、教程、经验、代码等。&lt;br&gt;也希望通过博客结识更多的朋友，一起交流、探讨。所以，如果觉得本站不错，愿意交换友情链接，那么请务必符合以下要求：&lt;br&gt;（1）贵站类型必须是博客类、文章类，两者中的一个，本站绝不与导购类、博彩类、影视类、
-      
-    
-    </summary>
-    
-    
-  </entry>
   
   <entry>
     <title>猎场</title>
@@ -159,6 +138,31 @@
       <category term="第一次" scheme="http://yoursite.com/tags/%E7%AC%AC%E4%B8%80%E6%AC%A1/"/>
     
       <category term="博客" scheme="http://yoursite.com/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>前端小项目：使用canvas绘画哆啦A梦</title>
+    <link href="http://yoursite.com/2017/05/22/ibgi/"/>
+    <id>http://yoursite.com/2017/05/22/ibgi/</id>
+    <published>2017-05-22T14:53:53.000Z</published>
+    <updated>2017-11-17T11:15:20.541Z</updated>
+    
+    <content type="html"><![CDATA[<p>本站是一个纯个人博客，发布常用资源、素材、教程、经验、代码等。<br>也希望通过博客结识更多的朋友，一起交流、探讨。所以，如果觉得本站不错，愿意交换友情链接，那么请务必符合以下要求：<br>（1）贵站类型必须是博客类、文章类，两者中的一个，本站绝不与导购类、博彩类、影视类、小说类等娱乐、擦边类型网站交换友情。<br>（2）贵站提供的内容要正常，如果含有色情、暴力等违法内容，一律谢绝交换。<br>（3）符合以上两点要求者，不论贵站权重如何，建站时间长短如何，只要认真建站，均可交换。<br>（4）申请友链的方式，可以在本站任何页面留言。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;本站是一个纯个人博客，发布常用资源、素材、教程、经验、代码等。&lt;br&gt;也希望通过博客结识更多的朋友，一起交流、探讨。所以，如果觉得本站不错，愿意交换友情链接，那么请务必符合以下要求：&lt;br&gt;（1）贵站类型必须是博客类、文章类，两者中的一个，本站绝不与导购类、博彩类、影视类、
+      
+    
+    </summary>
+    
+      <category term="前端" scheme="http://yoursite.com/categories/%E5%89%8D%E7%AB%AF/"/>
+    
+    
+      <category term="canvas" scheme="http://yoursite.com/tags/canvas/"/>
     
   </entry>
   
