@@ -2,12 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>wxd &#39;s Blog</title>
   
-  <subtitle>真的勇士，敢于直面惨淡的人生！</subtitle>
+  <subtitle>子非鱼安之鱼之乐！</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="http://wxdblog.top/"/>
   <updated>2017-11-11T07:35:11.803Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://wxdblog.top/</id>
   
   <author>
     <name>Wang xu dong</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>猎场</title>
-    <link href="http://yoursite.com/2017/11/11/88/"/>
-    <id>http://yoursite.com/2017/11/11/88/</id>
+    <link href="http://wxdblog.top/2017/11/11/88/"/>
+    <id>http://wxdblog.top/2017/11/11/88/</id>
     <published>2017-11-11T06:08:32.000Z</published>
     <updated>2017-11-11T07:35:11.803Z</updated>
     
@@ -34,15 +34,15 @@
     
     </summary>
     
-      <category term="电视" scheme="http://yoursite.com/categories/%E7%94%B5%E8%A7%86/"/>
+      <category term="电视" scheme="http://wxdblog.top/categories/%E7%94%B5%E8%A7%86/"/>
     
     
   </entry>
   
   <entry>
     <title>活着</title>
-    <link href="http://yoursite.com/2017/11/04/66/"/>
-    <id>http://yoursite.com/2017/11/04/66/</id>
+    <link href="http://wxdblog.top/2017/11/04/66/"/>
+    <id>http://wxdblog.top/2017/11/04/66/</id>
     <published>2017-11-04T01:37:32.000Z</published>
     <updated>2017-11-04T02:41:37.292Z</updated>
     
@@ -60,15 +60,15 @@
     
     </summary>
     
-      <category term="随笔" scheme="http://yoursite.com/categories/%E9%9A%8F%E7%AC%94/"/>
+      <category term="随笔" scheme="http://wxdblog.top/categories/%E9%9A%8F%E7%AC%94/"/>
     
     
   </entry>
   
   <entry>
     <title>流水</title>
-    <link href="http://yoursite.com/2017/10/21/new-article%20f/"/>
-    <id>http://yoursite.com/2017/10/21/new-article f/</id>
+    <link href="http://wxdblog.top/2017/10/21/new-article%20f/"/>
+    <id>http://wxdblog.top/2017/10/21/new-article f/</id>
     <published>2017-10-21T03:40:32.000Z</published>
     <updated>2017-11-17T07:13:31.491Z</updated>
     
@@ -84,15 +84,15 @@
     
     </summary>
     
-      <category term="曾经" scheme="http://yoursite.com/categories/%E6%9B%BE%E7%BB%8F/"/>
+      <category term="曾经" scheme="http://wxdblog.top/categories/%E6%9B%BE%E7%BB%8F/"/>
     
     
   </entry>
   
   <entry>
     <title>经年</title>
-    <link href="http://yoursite.com/2017/10/18/new-article/"/>
-    <id>http://yoursite.com/2017/10/18/new-article/</id>
+    <link href="http://wxdblog.top/2017/10/18/new-article/"/>
+    <id>http://wxdblog.top/2017/10/18/new-article/</id>
     <published>2017-10-18T12:08:32.000Z</published>
     <updated>2017-11-17T07:13:29.673Z</updated>
     
@@ -108,15 +108,15 @@
     
     </summary>
     
-      <category term="曾经" scheme="http://yoursite.com/categories/%E6%9B%BE%E7%BB%8F/"/>
+      <category term="曾经" scheme="http://wxdblog.top/categories/%E6%9B%BE%E7%BB%8F/"/>
     
     
   </entry>
   
   <entry>
     <title>终于完成啦！！！我的第一个网站</title>
-    <link href="http://yoursite.com/2017/10/16/postName/"/>
-    <id>http://yoursite.com/2017/10/16/postName/</id>
+    <link href="http://wxdblog.top/2017/10/16/postName/"/>
+    <id>http://wxdblog.top/2017/10/16/postName/</id>
     <published>2017-10-16T08:49:33.019Z</published>
     <updated>2017-10-16T09:23:03.921Z</updated>
     
@@ -132,12 +132,12 @@
     
     </summary>
     
-      <category term="心情" scheme="http://yoursite.com/categories/%E5%BF%83%E6%83%85/"/>
+      <category term="心情" scheme="http://wxdblog.top/categories/%E5%BF%83%E6%83%85/"/>
     
     
-      <category term="第一次" scheme="http://yoursite.com/tags/%E7%AC%AC%E4%B8%80%E6%AC%A1/"/>
+      <category term="第一次" scheme="http://wxdblog.top/tags/%E7%AC%AC%E4%B8%80%E6%AC%A1/"/>
     
-      <category term="博客" scheme="http://yoursite.com/tags/%E5%8D%9A%E5%AE%A2/"/>
+      <category term="博客" scheme="http://wxdblog.top/tags/%E5%8D%9A%E5%AE%A2/"/>
     
   </entry>
   
