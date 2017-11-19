@@ -745,9 +745,8 @@ pre .javascript .function {
   position: relative;
   padding: 15px;
   margin-bottom: 20px;
-  border: initial;
-  border-left: 3px solid #eee;
-  background-color: #f9f9f9;
+  border: 1px solid #eee;
+  border-left-width: 5px;
   border-radius: 3px;
 }
 .post-body .note h2,
@@ -755,7 +754,7 @@ pre .javascript .function {
 .post-body .note h4,
 .post-body .note h5,
 .post-body .note h6 {
-  margin-top: 3px;
+  margin-top: 0;
   margin-bottom: 0;
   border-bottom: initial;
   padding-top: 0 !important;
@@ -776,18 +775,7 @@ pre .javascript .function {
 .post-body .note blockquote:last-child {
   margin-bottom: 0;
 }
-.post-body .note:not(.no-icon) {
-  padding-left: 45px;
-}
-.post-body .note:not(.no-icon):before {
-  position: absolute;
-  font-family: 'FontAwesome';
-  font-size: larger;
-  top: 13px;
-  left: 15px;
-}
 .post-body .note.default {
-  background-color: #fff;
   border-left-color: #777;
 }
 .post-body .note.default h2,
@@ -797,12 +785,7 @@ pre .javascript .function {
 .post-body .note.default h6 {
   color: #777;
 }
-.post-body .note.default:not(.no-icon):before {
-  content: "\f0a9";
-  color: #777;
-}
 .post-body .note.primary {
-  background-color: #fdfbfe;
   border-left-color: #6f42c1;
 }
 .post-body .note.primary h2,
@@ -812,12 +795,7 @@ pre .javascript .function {
 .post-body .note.primary h6 {
   color: #6f42c1;
 }
-.post-body .note.primary:not(.no-icon):before {
-  content: "\f055";
-  color: #6f42c1;
-}
 .post-body .note.info {
-  background-color: #f9fcfd;
   border-left-color: #428bca;
 }
 .post-body .note.info h2,
@@ -827,12 +805,7 @@ pre .javascript .function {
 .post-body .note.info h6 {
   color: #428bca;
 }
-.post-body .note.info:not(.no-icon):before {
-  content: "\f05a";
-  color: #428bca;
-}
 .post-body .note.success {
-  background-color: #f8fcf9;
   border-left-color: #5cb85c;
 }
 .post-body .note.success h2,
@@ -842,12 +815,7 @@ pre .javascript .function {
 .post-body .note.success h6 {
   color: #5cb85c;
 }
-.post-body .note.success:not(.no-icon):before {
-  content: "\f058";
-  color: #5cb85c;
-}
 .post-body .note.warning {
-  background-color: #fefcf4;
   border-left-color: #f0ad4e;
 }
 .post-body .note.warning h2,
@@ -857,12 +825,7 @@ pre .javascript .function {
 .post-body .note.warning h6 {
   color: #f0ad4e;
 }
-.post-body .note.warning:not(.no-icon):before {
-  content: "\f06a";
-  color: #f0ad4e;
-}
 .post-body .note.danger {
-  background-color: #fefbfc;
   border-left-color: #d9534f;
 }
 .post-body .note.danger h2,
@@ -872,32 +835,28 @@ pre .javascript .function {
 .post-body .note.danger h6 {
   color: #d9534f;
 }
-.post-body .note.danger:not(.no-icon):before {
-  content: "\f056";
-  color: #d9534f;
-}
 .post-body .label {
   display: inline;
   padding: 0 2px;
   white-space: nowrap;
 }
 .post-body .label.default {
-  background-color: #f8f8f8;
+  background-color: #f0f0f0;
 }
 .post-body .label.primary {
-  background-color: #f6f2fb;
+  background-color: #efe6f7;
 }
 .post-body .label.info {
-  background-color: #f0f8fb;
+  background-color: #e5f2f8;
 }
 .post-body .label.success {
-  background-color: #f0f9f2;
+  background-color: #e7f4e9;
 }
 .post-body .label.warning {
-  background-color: #fdf9ec;
+  background-color: #fcf6e1;
 }
 .post-body .label.danger {
-  background-color: #fcf3f4;
+  background-color: #fae8eb;
 }
 .post-body .tabs {
   position: relative;
@@ -2103,7 +2062,7 @@ img:hover {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #71d2b5;
+  background: #853eff;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2644,6 +2603,13 @@ img:hover {
 .site-pv .busuanzi-value,
 .page-pv .busuanzi-value {
   margin: 0 5px;
+}
+.site-uv {
+  margin-right: 10px;
+}
+.site-uv::after {
+  content: "|";
+  padding-left: 10px;
 }
 .page-archive .archive-page-counter {
   position: relative;
